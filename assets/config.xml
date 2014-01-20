@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<QCARConfig xsi:noNamespaceSchemaLocation="qcar_config.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Tracking>
+        <ImageTarget name="trackable1" size="201.783966 301">
+		<VirtualButton name="trackable1" rectangle="-100 150 100 -150" enabled="true" />	
+		</ImageTarget>
+        <ImageTarget name="trackable2" size="390.04187 386">
+<VirtualButton name="trackable2" rectangle="-145 145 145 -145" enabled="true" />	
+		</ImageTarget>
+        <ImageTarget name="trackable3" size="52.223682 63">
+<VirtualButton name="trackable3" rectangle="-26 31 26 -31" enabled="true" />	
+		</ImageTarget>
+    </Tracking>
+</QCARConfig>
